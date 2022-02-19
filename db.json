@@ -1,0 +1,203 @@
+{
+  "subscriptions": [
+    {
+      "id": "mvg4lx",
+      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
+      "channelID": "938208144180535320"
+    },
+    {
+      "id": "lpt5mv",
+      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
+      "channelID": "933120907973644389"
+    },
+    {
+      "id": "8s2rn",
+      "url": "https://www.vinted.fr/vetements?search_text=C.P.%20Company&price_to=50.0&currency=EUR&search_id=4550793267&order=newest_first",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "nl8zj",
+      "url": "https://www.vinted.fr/vetements?brand_id[]=4504076&currency=EUR&search_id=4576538383&order=newest_first",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "woai7",
+      "url": "https://www.vinted.fr/vetements?search_text=New%20Balance&size_id[]=208&size_id[]=209&size_id[]=207&price_to=30.0&currency=EUR&search_id=4550809451&order=newest_first",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "lwjd27",
+      "url": "https://www.vinted.fr/vetements?search_text=The%20Kooples&currency=EUR&search_id=4590327770&order=newest_first&price_to=35&catalog[]=5",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "f8u9ev",
+      "url": "https://www.vinted.fr/vetements?search_text=Arc%27teryx&price_to=50.0&currency=EUR&search_id=4550825285&order=newest_first",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "i8oxzc",
+      "url": "https://www.vinted.fr/vetements?search_text=The%20North%20Face&price_to=25&currency=EUR&search_id=4590351436&order=newest_first",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "72deaf",
+      "url": "https://www.vinted.fr/vetements?search_text=Comme%20Des%20Gar%C3%A7ons%20Play&price_to=25&currency=EUR&search_id=4590355056&order=newest_first&time=1644839237",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "xwlvzf",
+      "url": "https://www.vinted.fr/vetements?search_text=Nike&price_to=25&currency=EUR&search_id=4590359592&order=newest_first&catalog[]=5",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "zar7uq",
+      "url": "https://www.vinted.fr/vetements?search_text=Carhartt&price_to=25&currency=EUR&search_id=4590363650&order=newest_first&catalog[]=5&time=1644839334",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "1xhj7f",
+      "url": "https://www.vinted.fr/vetements?search_text=Ralph%20Lauren&price_to=25&currency=EUR&search_id=4590367398&order=newest_first&catalog[]=5&time=1644839376",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "2mxlxp",
+      "url": "https://www.vinted.fr/vetements?search_text=Zadig%20%26%20Voltaire&price_to=25&currency=EUR&search_id=4590367398&order=newest_first&catalog[]=5",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "jkp1kq",
+      "url": "https://www.vinted.fr/vetements?search_text=Jacquemus&currency=EUR&search_id=4590375510&order=newest_first&catalog[]=5",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "0nmyip",
+      "url": "https://www.vinted.fr/vetements?search_text=Moncler&currency=EUR&search_id=4590379619&order=newest_first&catalog[]=5&time=1644839516",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "8nycb",
+      "url": "https://www.vinted.fr/vetements?popular=true&catalog[]=5&order=newest_first&search_text=Supreme&price_to=25&currency=EUR",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "zby1nq",
+      "url": "https://www.vinted.fr/vetements?popular=true&size_id[]=208&size_id[]=209&order=newest_first&search_text=Jott&price_to=20&currency=EUR",
+      "channelID": "939959663800238122"
+    },
+    {
+      "id": "3eqg7h",
+      "url": "https://www.vinted.fr/vetements?search_text=Carhartt&catalog[]=5&price_to=25.0&currency=EUR&search_id=4590363650&order=newest_first",
+      "channelID": "944222115115171921"
+    },
+    {
+      "id": "266kn8",
+      "url": "https://www.vinted.fr/vetements?search_text=The%20North%20Face&price_to=25.0&currency=EUR&search_id=4590351436&order=newest_first",
+      "channelID": "944222009674592276"
+    },
+    {
+      "id": "an1m7",
+      "url": "https://www.vinted.fr/vetements?search_text=The%20North%20Face&price_to=25.0&currency=EUR&search_id=4590351436&order=newest_first",
+      "channelID": "944222009674592276"
+    },
+    {
+      "id": "l5rq7",
+      "url": "https://www.vinted.fr/vetements?search_text=Nike&price_to=25.0&currency=EUR&search_id=4619402361&order=newest_first&time=1645190752",
+      "channelID": "944222033598873630"
+    },
+    {
+      "id": "rl00a8i",
+      "url": "https://www.vinted.fr/vetements?search_text=T-shirts%20ami&brand_id[]=4504076&currency=EUR&search_id=4606329457&order=newest_first",
+      "channelID": "944222061063184404"
+    },
+    {
+      "id": "9wxy8",
+      "url": "https://www.vinted.fr/vetements?search_text=The%20Kooples&currency=EUR&search_id=4619422545&order=newest_first&catalog[]=5",
+      "channelID": "944222083070705684"
+    },
+    {
+      "id": "uft0er",
+      "url": "https://www.vinted.fr/vetements?search_text=C.P.%20Company&search_id=4619435184&order=newest_first&catalog[]=5",
+      "channelID": "944222061063184404"
+    },
+    {
+      "id": "4y4ij8",
+      "url": "https://www.vinted.fr/vetements?search_text=Ralph%20Lauren&search_id=4619441968&catalog[]=5&order=newest_first",
+      "channelID": "944222083070705684"
+    },
+    {
+      "id": "xby2ha",
+      "url": "https://www.vinted.fr/vetements?search_text=Jacquemus&catalog[]=5&currency=EUR&search_id=4590375510&order=newest_first",
+      "channelID": "944222061063184404"
+    },
+    {
+      "id": "1rfanm",
+      "url": "https://www.vinted.fr/vetements?search_text=Nike&catalog[]=5&currency=EUR&search_id=4621278315&order=newest_first&price_to=25&size_id[]=207&size_id[]=208&size_id[]=209",
+      "channelID": "944296034765520907"
+    },
+    {
+      "id": "pryerq",
+      "url": "https://www.vinted.fr/vetements?search_text=The%20Kooples&catalog[]=5&currency=EUR&search_id=4621328165&order=newest_first&price_to=25&size_id[]=207&size_id[]=208&size_id[]=209&time=1645208267",
+      "channelID": "944296034765520907"
+    },
+    {
+      "id": "vaidrn",
+      "url": "https://www.vinted.fr/vetements?search_text=C.P.%20Company&catalog[]=5&currency=EUR&search_id=4621330590&order=newest_first&size_id[]=207&size_id[]=208&size_id[]=209&price_to=40",
+      "channelID": "944296034765520907"
+    },
+    {
+      "id": "etjd9t",
+      "url": "https://www.vinted.fr/vetements?search_text=AMI%20Paris&catalog[]=5&currency=EUR&search_id=4621334405&order=newest_first&size_id[]=207&size_id[]=208&size_id[]=209&price_to=40",
+      "channelID": "944296034765520907"
+    },
+    {
+      "id": "f4c7qf",
+      "url": "https://www.vinted.fr/vetements?search_text=The%20North%20Face&catalog[]=5&currency=EUR&search_id=4621340810&order=newest_first&size_id[]=207&size_id[]=208&size_id[]=209&price_to=25",
+      "channelID": "944296034765520907"
+    },
+    {
+      "id": "wm5ayj",
+      "url": "https://www.vinted.fr/vetements?search_text=Carhartt&catalog[]=5&currency=EUR&search_id=4621343831&order=newest_first&size_id[]=207&size_id[]=208&size_id[]=209&price_to=25",
+      "channelID": "944296034765520907"
+    },
+    {
+      "id": "7s3jes",
+      "url": "https://www.vinted.fr/vetements?search_text=New%20Balance&catalog[]=5&currency=EUR&search_id=4621348088&order=newest_first&size_id[]=207&size_id[]=208&size_id[]=209&price_to=25&time=1645208454",
+      "channelID": "944296034765520907"
+    }
+  ],
+  "last_item_ts_mvg4lx": 1645270085000,
+  "last_item_ts_lpt5mv": 1645270085000,
+  "last_item_ts_8s2rn": 1645269990000,
+  "last_item_ts_nl8zj": 1645269570000,
+  "last_item_ts_woai7": 1645268595000,
+  "last_item_ts_lwjd27": 1645269644000,
+  "last_item_ts_f8u9ev": 1645269966000,
+  "last_item_ts_i8oxzc": 1645269951000,
+  "last_item_ts_72deaf": 1644824396000,
+  "last_item_ts_xwlvzf": 1645270189000,
+  "last_item_ts_zar7uq": 1644839220000,
+  "last_item_ts_1xhj7f": 1644839332000,
+  "last_item_ts_2mxlxp": 1645268173000,
+  "last_item_ts_jkp1kq": 1645266063000,
+  "last_item_ts_0nmyip": 1644839229000,
+  "last_item_ts_8nycb": 1645266441000,
+  "last_item_ts_zby1nq": 1645262993000,
+  "last_item_ts_3eqg7h": 1645270026000,
+  "last_item_ts_266kn8": 1645269951000,
+  "last_item_ts_an1m7": 1645269951000,
+  "last_item_ts_l5rq7": 1645190698000,
+  "last_item_ts_rl00a8i": 1645269570000,
+  "last_item_ts_9wxy8": 1645269644000,
+  "last_item_ts_uft0er": 1645270079000,
+  "last_item_ts_4y4ij8": 1645270198000,
+  "last_item_ts_xby2ha": 1645266063000,
+  "last_item_ts_1rfanm": 1645270166000,
+  "last_item_ts_pryerq": 1645207968000,
+  "last_item_ts_vaidrn": 1645269990000,
+  "last_item_ts_etjd9t": 1645261301000,
+  "last_item_ts_f4c7qf": 1645269812000,
+  "last_item_ts_wm5ayj": 1645269917000,
+  "last_item_ts_7s3jes": 1645205306000,
+  "is_first_sync": true
+}
